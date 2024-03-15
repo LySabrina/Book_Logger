@@ -5,3 +5,5 @@ Basic Information collected are:
 - Book Title
 - Book Price
 
+Example of book logged into Google Sheet:
+![Rows 2-4 shows example inserted data](./assets/example/GS.png)
