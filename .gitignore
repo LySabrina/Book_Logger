@@ -1,0 +1,7 @@
+apikey.py
+credentials.json
+.DS_Store
+__pycache__
+sheets
+assets/books
+assets/other
